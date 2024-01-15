@@ -19,8 +19,10 @@
 
 ## Early Products and Libraries:
 - ashx.ebnf : a BNF for AshX
-- .ashx file format
-- ashx-parser : Parser, Syntax Checker. Available as:
+- .ex.ashx file format
+- .curly.ashx file format
+- `ashx_to_curly` and `ashx_to_ex` prototypes
+- ashx-parser : Parser, Syntax Checker, Converter. Available as:
 	- CLI command (npm, brew, mix)
 	- JS Library (for in browser apps and front-end first devs)
 	- Elixir Library (to please Elixir minmaxers)
@@ -29,8 +31,8 @@
 - ashx-vscode-extension : see https://ballerina.io/
 
 ## Project Roadmap
-- 2024: Build early products 2024
-- 2025: Get absorbed by ash project
-- 2025: Support AshX integration in commercial projects (kech.app can be a first customer)
-- 2026: Design by comity
+- 2024: Build early products 2024 - Bootstrapping (Me and whoever is interested)
+- 2025: Get absorbed by ash project - Delegate implementation and ownership to ash authors
+- 2025: Support AshX integration in commercial projects - Monetization
+- 2026: Design by comity - Stabilisation and sustainability
 
