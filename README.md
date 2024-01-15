@@ -52,4 +52,6 @@ For an intro, about 'Distinctions' you can see [The Four Simple Rules of Systems
 - 2025: Support AshX integration in commercial projects (kech.app can be a first customer)
 - 2026: Design by comity
 
+## Project status
+- ashx.ebnf: started
 
