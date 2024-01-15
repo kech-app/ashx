@@ -1,6 +1,6 @@
 # .ashx - the ash file format
 
-## Design Goals - Technical Design Point of View
+## Design Goals - from Technical Designer Point of View
 
 - Isolate ash syntax from semantics 
 - Create a robust .ashx file format
@@ -20,7 +20,7 @@
 - AshX accelerates the adoption of ash by focusing on syntax skills (reference: [How Syntax Contributes to Reading Development](https://www.doe.mass.edu/massliteracy/skilled-reading/language-comprehend/syntax.html))
 
 
-## Methods and required skill levels - HR Point of View
+## Methods and required skill levels - from HR Point of View
 _Technical design skills_: excellent
 
 _Programming skills_: good
@@ -36,7 +36,7 @@ _System Thinking - basic_: as we dont want to make too many distinctions (2 dist
 For an intro, about 'Distinctions' you can see [The Four Simple Rules of Systems Thinking: The Distinction Rule](https://blog.cabreraresearch.org/the-four-simple-rules-of-systems-thinking) and [Perspective Taking](https://blog.cabreraresearch.org/perspectivetaking)
 
 
-## Early Products, Libraries and AI Expermiments - Product Owner Point of View
+## Early Products, Libraries and AI Expermiments - from Product Owner Point of View
 - ashx.ebnf : a BNF for AshX
 - .ashx file format
 - ashx-parser : Parser, Syntax Checker. Available as:
@@ -48,7 +48,7 @@ For an intro, about 'Distinctions' you can see [The Four Simple Rules of Systems
 - ashx-vscode-extension : see https://ballerina.io/
 - Ash GPT: an experiment to generate .ashx files with GPT
 
-## Project Roadmap - Project Manager POV
+## Project Roadmap - from Project Manager Point of View
 - 2024: Build early products 2024
 - 2025: Get absorbed by ash project
 - 2025: Support AshX integration in commercial projects (kech.app can be a first customer)
