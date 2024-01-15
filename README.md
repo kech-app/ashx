@@ -1,6 +1,6 @@
 # .ashx - the ash file format
 
-## Design Goals - Technical Design POV
+## Design Goals - Technical Design Point of View
 
 - Isolate ash syntax from semantics 
 - Create a robust .ashx file format
@@ -17,10 +17,10 @@
 - AshX is not a DSL builder
 - AshX have a "welcome policy" to other languages (Ruby, Clojure, JS, Yaml, XML). (see CarbonUI for inspiration [CarbonUI - supported frameworks](https://carbondesignsystem.com/developing/frameworks/other-frameworks))
 - AshX adheres to the [Rule of least power](https://en.wikipedia.org/wiki/Rule_of_least_power)
-- Accelerate the adoption of ash by focusing on syntax skills (reference: [How Syntax Contributes to Reading Development](https://www.doe.mass.edu/massliteracy/skilled-reading/language-comprehend/syntax.html))
+- AshX accelerates the adoption of ash by focusing on syntax skills (reference: [How Syntax Contributes to Reading Development](https://www.doe.mass.edu/massliteracy/skilled-reading/language-comprehend/syntax.html))
 
 
-## Methods and required skill levels - HR POV
+## Methods and required skill levels - HR Point of View
 _Technical design skills_: excellent
 
 _Programming skills_: good
@@ -33,10 +33,10 @@ _System Thinking - basic_: as we dont want to make too many distinctions (2 dist
   - program code as a map of maps is order-independent - Easier to reason about (goes to .ashx files)
   - program code as a list of lists is order-dependent - Harder to reason about (goes to .ex, .js files)
     
-For an intro, about 'Distinctions' you can see (The Four Simple Rules of Systems Thinking: The Distinction Rule)[https://blog.cabreraresearch.org/the-four-simple-rules-of-systems-thinking]
+For an intro, about 'Distinctions' you can see [The Four Simple Rules of Systems Thinking: The Distinction Rule](https://blog.cabreraresearch.org/the-four-simple-rules-of-systems-thinking) and [Perspective Taking](https://blog.cabreraresearch.org/perspectivetaking)
 
 
-## Early Products, Libraries and AI Expermiments - Product Owner POV
+## Early Products, Libraries and AI Expermiments - Product Owner Point of View
 - ashx.ebnf : a BNF for AshX
 - .ashx file format
 - ashx-parser : Parser, Syntax Checker. Available as:
