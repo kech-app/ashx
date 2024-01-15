@@ -8,8 +8,8 @@
 	- elixir style: ex: `customer.ex.ashx` 
 	- ashx curly. [B language](https://en.wikipedia.org/wiki/B_%28programming_language%29) style syntax. ex: `customer.curly.ashx`
 - .ex.ashx and .curly.ash are isomorph: 
-	- `ashx_to_curly("customer.ex.ashx") == customer.curly.ashx`
-	- `ashx_to_ex("customer.curly.ashx") == customer.ex.ashx`
+	- `ashx_to_curly(customer.ex.ashx) == customer.curly.ashx`
+	- `ashx_to_ex(customer.curly.ashx) == customer.ex.ashx`
 - .ex.ashx syntax is a subset of (elixir + Ash dsls)
 - .ex.ashx file can be seamlessly integrated into an ash project
 - .ashx files can be edited visually (see [ballerina vscode extenions](https://ballerina.io/learn/vs-code-extension/))
