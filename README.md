@@ -46,7 +46,7 @@ _System Thinking - basic_: as we dont want to make too many distinctions (2 dist
 For an intro, about 'Distinctions' you can see [The Four Simple Rules of Systems Thinking: The Distinction Rule](https://blog.cabreraresearch.org/the-four-simple-rules-of-systems-thinking) and [Perspective Taking](https://blog.cabreraresearch.org/perspectivetaking)
 
 ## Project Roadmap 
-- 2024: Build early products 2024
+- 2024: Build early products
 - 2025: Get absorbed by ash project
 - 2025: Support AshX integration in commercial projects (kech.app can be a first customer)
 - 2026: Design by comity
