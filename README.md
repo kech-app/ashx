@@ -32,7 +32,7 @@
 
 ## Project Roadmap
 - 2024: Build early products 2024 - Bootstrapping (Me and whoever is interested)
-- 2025: Get absorbed by ash project - Delegate implementation and ownership to ash authors
-- 2025: Support AshX integration in commercial projects - Monetization
+- 2025: Get absorbed by ash project - Delegate implementation and ownership to ash core team
+- 2025: Support AshX integration in a commercial project - Monetization. (This is my real focus)
 - 2026: Design by comity - Stabilisation and sustainability
 
