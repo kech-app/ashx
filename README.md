@@ -2,10 +2,7 @@
 
 ## Design Goals - Technical Design POV
 
-- Isolate ash syntax from semantics :
-  - Modularity: Parsing vs Evaluation - Compiler and Language Design
-  - Learning: Accelerate the adoption of ash by focusing on syntax skills (reference: [How Syntax Contributes to Reading Development](https://www.doe.mass.edu/massliteracy/skilled-reading/language-comprehend/syntax.html))
-
+- Isolate ash syntax from semantics 
 - Create a robust .ashx file format
 - Allow ash.v5 to support ash.v4 resource files. 
 - AshX syntax have 2 dialects 
@@ -20,6 +17,8 @@
 - AshX is not a DSL builder
 - AshX have a "welcome policy" to other languages (Ruby, Clojure, JS, Yaml, XML). (see CarbonUI for inspiration [CarbonUI - supported frameworks](https://carbondesignsystem.com/developing/frameworks/other-frameworks))
 - AshX adheres to the [Rule of least power](https://en.wikipedia.org/wiki/Rule_of_least_power)
+- Accelerate the adoption of ash by focusing on syntax skills (reference: [How Syntax Contributes to Reading Development](https://www.doe.mass.edu/massliteracy/skilled-reading/language-comprehend/syntax.html))
+
 
 ## Methods and required skill levels - HR POV
 _Technical design skills_: excellent
