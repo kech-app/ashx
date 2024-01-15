@@ -31,8 +31,8 @@
 - ashx-vscode-extension : see https://ballerina.io/
 
 ## Project Roadmap
-- 2024: Build early products 2024 - Bootstrapping (Me and whoever is interested)
-- 2025: Get absorbed by ash project - Delegate implementation and ownership to ash core team
-- 2025: Support AshX integration in a commercial project - Monetization. (This is my real focus)
-- 2026: Design by comity - Stabilisation and sustainability
+- 2024: Build early products 2024 - Bootstrapping
+- 2025: Get absorbed by ash project - Delegate implementation and ownership (maybe to ash core team)
+- 2025: Support AshX integration in a commercial project (like Kech.app 2025) - Monetization
+- 2026: Design by comity - Stabilisation and sustainability of .ashx file format
 
